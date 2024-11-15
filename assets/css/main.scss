@@ -65,6 +65,10 @@
 
 body[a="dark"] {
 	@include dark-appearance;
+
+	figcaption {
+		color: white;
+	}
 }
 
 body[a="light"] {
@@ -74,6 +78,10 @@ body[a="light"] {
 @media (prefers-color-scheme: dark) {
 	body[a="auto"] {
 		@include dark-appearance;
+
+		figcaption {
+			color: white;
+		}
 	}
 }
 
