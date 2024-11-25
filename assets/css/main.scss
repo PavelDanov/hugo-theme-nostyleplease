@@ -74,6 +74,10 @@ body[a="dark"] {
     figcaption {
         color: white;
     }
+
+    blockquote {
+        border: thin solid white;
+    }
 }
 
 body[a="light"] {
@@ -86,6 +90,10 @@ body[a="light"] {
 
         figcaption {
             color: white;
+        }
+
+        blockquote {
+            border: thin solid white;
         }
     }
 }
