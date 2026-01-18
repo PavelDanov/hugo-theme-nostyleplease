@@ -1,1 +1,1 @@
-© Copyright 2017-2025 by Pavel Danov
+© Copyright 2017-2026 by Pavel Danov
